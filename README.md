@@ -7,6 +7,7 @@ So the puzzle for the code camp was to decode the Morse Code message:
 > 
 > The following transmission was received from General Gates:  
 >     .-.-...-..-.-.------.--.....-...--.---.-.------...--------.-..---.--...-.---.-..--.-.-.....-.---.-..-----.-.--.-....-..-.........
+>
 > You must decode this to find the hidden message. Unfortunately, the message was damaged in transmission and all the spaces between the words were lost. However, we do know that only the following letters are in the message:  
 >  
 >     A .- B -... C -.-. D -.. E . F ..-. G --. H ....  
