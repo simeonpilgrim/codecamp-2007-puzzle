@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDecoder", "MessageDecoder\MessageDecoder.csproj", "{AC604E94-D13C-45B6-BAE3-58183D7DAF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC604E94-D13C-45B6-BAE3-58183D7DAF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC604E94-D13C-45B6-BAE3-58183D7DAF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC604E94-D13C-45B6-BAE3-58183D7DAF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC604E94-D13C-45B6-BAE3-58183D7DAF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

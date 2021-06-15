@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{94D665CA-D915-4DE1-AA53-913450A1AE2D}") = "MTree", "MTree\MTree.fsharpp", "{41F6762C-3655-448D-9C13-BE49032BD667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F6762C-3655-448D-9C13-BE49032BD667}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41F6762C-3655-448D-9C13-BE49032BD667}.Debug|Win32.Build.0 = Debug|Win32
+		{41F6762C-3655-448D-9C13-BE49032BD667}.Release|Win32.ActiveCfg = Release|Win32
+		{41F6762C-3655-448D-9C13-BE49032BD667}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
